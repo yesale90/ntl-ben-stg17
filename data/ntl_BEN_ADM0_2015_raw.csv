@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+84139743B99999625492710,The Republic of Benin,115414,471607,15392.1,3791.33,0.133364,0.0326376,0,0,61.6131,2398.66,0.0207831,29.3561,0.000254355,1.06237e+07,1.06235e+07,3.33927e+06,7.28422e+06,0.314329,92.0484,0.00144885,0.990044,0.859299,13.18,1,1,1
